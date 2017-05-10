@@ -1,0 +1,21 @@
+{
+  "name": "ux-snippets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "",
+    "compile"
+
+  },
+  "author": "Loopilla",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.5.2"
+  },
+  "devDependencies": {
+    "bourbon": "^4.3.4",
+    "bourbon-neat": "^2.0.0"
+  }
+}
